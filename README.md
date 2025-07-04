@@ -44,11 +44,9 @@ _Your browser + your skills = instant fun!_
 
 ## 🖼️ Screenshots
 
-_Add screenshots if you'd like! Example layout below:_
-
-| Desktop View | Mobile View |
-|--------------|-------------|
-| ![desktop](screenshots/desktop.png) | ![mobile](screenshots/mobile.png) |
+| 📱 Mobile View | 💻 Desktop View |
+|----------------|----------------|
+| <img src="WhatsApp%20Image%202025-07-04%20at%2013.37.27_991a72fc.jpg" width="300"/> | <img src="Screenshot%202025-07-04%20133545.png" width="500"/> |
 
 ---
 
